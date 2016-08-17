@@ -4,7 +4,7 @@ _bobby's supermarket_ is my novice attempt to write a Pythonic wrapper around th
 
 The name of this repository comes from [Bobby's Supermarket][bobbys], a locally owned grocery store in my hometown.
 
-## prerequisites
+## Prerequisites
 
 To register for the Rotten Tomatoes API, visit the Rotten Tomatoes [Developer Site][rt_dev].  Once you're registered as a developer, and you receive your API key, be sure to set a local environment variable called ROTTEN_API_KEY to the application key generated for you after regstering.
 
