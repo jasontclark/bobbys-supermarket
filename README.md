@@ -10,5 +10,3 @@ To register for the Rotten Tomatoes API, visit the Rotten Tomatoes [Developer Si
 
 [rt_dev]:http://developer.rottentomates.com/
 [bobbys]:http://www.yellowpages.com/roanoke-rapids-nc/mip/bobbys-supermarket-464976822
-
-
